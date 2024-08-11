@@ -30,7 +30,7 @@ sidebar_position: 5
 | plate    | 牌子或将牌 |
 | grade    | 评价等级，SSS等 |
 
-[]为必带参数 <>为可选参数  
+[]为必带参数 ()为可选参数  
 ※为前缀指令 #BOT管理员私聊指令
 
 ---
@@ -38,7 +38,7 @@ sidebar_position: 5
 | 常规指令 | 参数 | 说明 |
 | -------- | ---- | ---- |
 | 今日舞萌 |      | 查看今日舞萌运势 |
-| 随个 | <ver> <diff> [rating] | 随机发送一个谱面 |
+| 随个 | (ver) (diff) [rating] | 随机发送一个谱面 |
 | 查歌/search | [title] | 查询曲名含该文字的曲目 |
 | 是什么歌※ | [alias] | 查询该别名的曲目 |
 | 有什么别名※ | [id/alias/title] | 查询该曲目的所有别名 |
@@ -55,9 +55,9 @@ sidebar_position: 5
 | 猜歌 |      | 猜歌游戏 |
 | mai猜歌※ | [on/off] | 开启或关闭猜歌功能 |
 | 重置猜歌 |      | 重置当前猜歌进程 |
-| minfo | <@>[id/alias/title] | 查询指定曲目成绩 |
-| ginfo | <diff> [id/alias/title] | 查看指定曲目游玩总览，默认为紫谱 |
-| b50 | <@/player> | 查询b50成绩 |
+| minfo | (@)[id/alias/title] | 查询指定曲目成绩 |
+| ginfo | (diff) [id/alias/title] | 查看指定曲目游玩总览，默认为紫谱 |
+| b50 | (@/player) | 查询b50成绩 |
 | 定数表※ | [level] | 查看指定等级定数表 |
 | 完成表※ | [level] | 查看指定等级游玩完成表 |
 | 查看排行 | [page/player] | 使用页数或者玩家名查看ra排行 |
