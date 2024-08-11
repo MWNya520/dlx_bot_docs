@@ -22,7 +22,7 @@ $ pnpm start
 ### 构建
 
 ```
-$ yarn build
+$ pnpm build
 ```
 
 在黑色窗口执行一下这个命令会在项目根目录出现一个名叫build的文件夹，这是静态网站，放哪都能用</br>
