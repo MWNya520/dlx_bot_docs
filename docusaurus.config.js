@@ -93,7 +93,7 @@ const config = {
             title: '文档',
             items: [
               {
-                label: '点击查看',
+                label: '从头看起',
                 to: '/docs/概述',
               },
             ],
@@ -102,7 +102,7 @@ const config = {
             title: '社区',
             items: [
               {
-                label: 'QQ群①：836811770',
+                label: '迪拉熊 BOT 纯享群 ①：836811770',
                 href: 'https://dlx.miaowing.top',
               },
             ],
@@ -114,12 +114,12 @@ const config = {
                 label: '博客',
                 to: '/blog',
               },*/
-              {
+              /*{
                 label: 'GitHub',
                 href: 'https://github.com/shengwang52005',
-              },
+              },*/
               {
-                label: '服务状态看板',
+                label: '状态',
                 href: 'https://status.miaowing.top/status/dlxbot',
               },
             ],
