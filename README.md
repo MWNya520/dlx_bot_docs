@@ -50,5 +50,5 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 
 ### 贡献
 
-commit怎么写：[Git Commit message 编写指南](https://gitee.com/help/articles/4231#article-header2)
+commit怎么写：[Git Commit message 编写指南](https://gitee.com/help/articles/4231#article-header2)</br>
 markdown怎么写：[Markdown 官方教程](https://markdown.com.cn/)
