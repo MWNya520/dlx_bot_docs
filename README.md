@@ -47,3 +47,7 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 如果你是白嫖pages部署的，这个命令将会协助你构建静态网页然后push到gh-pages分支，白嫖更轻松了（喜） 
+
+### 贡献
+
+请先阅读commit怎么写：[https://gitee.com/help/articles/4231#article-header2](https://gitee.com/help/articles/4231#article-header2)
