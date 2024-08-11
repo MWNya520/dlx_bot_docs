@@ -103,7 +103,7 @@ const config = {
             items: [
               {
                 label: '迪拉熊 BOT 纯享群 ①：836811770',
-                href: 'https://dlx.miaowing.top',
+                href: 'https://qm.qq.com/q/HjQC8rcjg4',
               },
             ],
           },
