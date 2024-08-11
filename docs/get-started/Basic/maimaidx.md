@@ -1,5 +1,6 @@
 |![maimaidxhelp](.\img\maimaidxhelp.png)
-sidebar_position: 1
+---
+sidebar_position: 5
 ---
 
 # 舞萌
