@@ -1,17 +1,17 @@
-# Website
+# 迪拉熊帮助文档
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+请确保提前安装 node.js
 
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
+### 初始化
 
 ```
-$ yarn start
+$ pnpm i
+```
+
+### 本地测试
+
+```
+$ pnpm start
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
