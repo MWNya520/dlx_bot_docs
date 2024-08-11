@@ -6,6 +6,7 @@ sidebar_position: 1
 
 ### MaimaiDX指令表
 ```markdown
+---
 |         参数说明         |  
 |ver     版本，可用dx或标准|  
 |diff     难度，可用绿黄红紫白|  
