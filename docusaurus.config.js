@@ -118,6 +118,10 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/shengwang52005',
               },
+              {
+                label: '服务状态看板',
+                href: 'https://status.miaowing.top/status/dlxbot',
+              },
             ],
           },
         ],
