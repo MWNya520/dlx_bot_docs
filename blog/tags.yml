@@ -1,0 +1,12 @@
+迪拉熊 BOT:
+  label: 迪拉熊 BOT
+  permalink: /dlx
+  description: 迪拉熊 BOT 的消息
+通知:
+  label: 通知
+  permalink: /notice
+  description: 迪拉熊 BOT 的通知
+事件:
+  label: 事件
+  permalink: /event
+  description: 迪拉熊 BOT 的事件
