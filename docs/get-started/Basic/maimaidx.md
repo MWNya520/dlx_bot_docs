@@ -1,4 +1,4 @@
-![maimaidxhelp](.\img\maimaidxhelp.png)
+---
 sidebar_position: 1
 ---
 
@@ -56,3 +56,4 @@ grade    评价等级，SSS等｜
 ｜查看排行｜[page / player]使用页数或者玩家名查看ra排行｜
 ｜更新别名库#｜手动更新别名库｜
 ｜更新定数表#｜生成和更新定数表｜
+![maimaidxhelp](.\img\maimaidxhelp.png)
