@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/概述">
-            2分钟⏱️ - 快速了解迪拉熊 BOT ➡
+            查看文档 ➡
           </Link>
         </div>
       </div>
