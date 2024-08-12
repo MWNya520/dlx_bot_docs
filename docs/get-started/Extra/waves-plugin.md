@@ -1,7 +1,7 @@
 # waves-plugin
 ## 功能列表
 
-请使用 `~帮助` 获取完整帮助
+请使用 `~鸣潮帮助` 获取完整帮助
 
 - [x] 绑定账号
 - [x] 自动签到
@@ -21,8 +21,6 @@
 
 ## 功能列表
 
-<details><summary>点击展开</summary>
-
 | 命令      | 功能                       | 示例                                                                                                |
 | --------- | -------------------------- | --------------------------------------------------------------------------------------------------- |
 | ~登录     | 绑定账户 Token             | ![renderings](https://cdn.jsdelivr.net/gh/erzaozi/waves-plugin@main/resources/readme/Bind.png)      |
@@ -39,5 +37,3 @@
 | ~十连     | 抽卡模拟器                 | ![renderings](https://cdn.jsdelivr.net/gh/erzaozi/waves-plugin@main/resources/readme/Simulator.png) |
 | ~公告     | 获取官方公告与资讯         | ![renderings](https://cdn.jsdelivr.net/gh/erzaozi/waves-plugin@main/resources/readme/News.png)      |
 | ~帮助     | 获取插件帮助               | ![renderings](https://cdn.jsdelivr.net/gh/erzaozi/waves-plugin@main/resources/readme/Help.png)      |
-
-</details>
