@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 5.2
 ---
 # 抽卡（原）
 Yunzai-Bot V3 的插件包，主要提供拓展抽卡功能，旨在不修改原卡池信息的情况下提供自定义卡池的拓展

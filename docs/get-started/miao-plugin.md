@@ -1,5 +1,5 @@
 ---
-sidebar_positon: 5
+sidebar_positon: 5.3
 ---
 # 喵喵（米）
 miao-plugin是一个Yunzai-Bot的升级插件，提供包括角色面板、角色查询等角色相关功能

@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# 米游
+# Genshin（米）
 
 支持原神、崩铁、绝区零的米游插件
 

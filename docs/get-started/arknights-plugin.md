@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # 明日方舟
 
+基于森空岛API开发的Yunzai Bot插件
+
 ## 插件基本命令
 
 - `#方舟帮助`  打开帮助菜单
