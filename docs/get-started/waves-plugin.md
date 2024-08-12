@@ -1,4 +1,10 @@
-# waves-plugin
+---
+sidebar_position: 6
+---
+
+
+# 鸣潮
+基于 Yunzai 的鸣潮游戏数据查询插件
 ## 功能列表
 
 请使用 `~鸣潮帮助` 获取完整帮助

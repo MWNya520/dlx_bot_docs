@@ -1,5 +1,10 @@
-# phi-plugin
-## Phigros辅助插件
+---
+sidebar_position: 2
+---
+
+# Phigros辅助插件
+
+适用于 Yunzai-Bot V3 的 phigros 辅助插件
 ### 功能
 
 以下#均可用/代替，命令头可自定义

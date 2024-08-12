@@ -1,4 +1,8 @@
-# Shiranai-Plugin
+---
+sidebat_position: 9
+---
+# 希腊奶
+🦄 Shiranai-Plugin 是一个Miao-Yunzai&Trss-Yunzai&Karin的扩展插件，提供对 Bot 的一些娱乐功能
 ## 功能介绍 📖
 
 > Shiranai-Plugin 为您提供以下功能，较为刷屏建议单独创群游玩

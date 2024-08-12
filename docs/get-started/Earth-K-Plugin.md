@@ -1,9 +1,11 @@
 ---
-sidebar_position: 5
+sidebar_position: 10
 ---
 
+# 土块
 
-# 土块插件
+Earth-K-Plugin是一个Yunzai-Bot的附属插件，主要提供了原史及部分功能，具体可见#土块帮助
+
 ### 功能列表
 | 功能 | 描述 | 命令 |
 | --- | --- | --- |

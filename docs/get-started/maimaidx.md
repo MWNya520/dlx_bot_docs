@@ -1,8 +1,10 @@
 ---
-sidebar_position: 5
+sidebar_position: 1
 ---
 
 # 舞萌
+
+街机音游 舞萌DX 的 nonebot2 插件
 
 ### MaimaiDX指令表
 
@@ -63,4 +65,4 @@ sidebar_position: 5
 | 查看排行 | [page/player] | 使用页数或者玩家名查看ra排行 |
 | 更新别名库# |      | 手动更新别名库 |
 
-![maimaidxhelp](.\img\maimaidxhelp.png)
+![maimaidxhelp](.\img\maimaidx\maimaidxhelp.png)

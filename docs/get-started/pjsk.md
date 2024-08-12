@@ -1,8 +1,12 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 ---
 
 # Project Sekai 表情包制作
+
+# PJSK表情包制作
+
+Project Sekai 表情包制作
 
 使用PJSK快速生成表情包吧！
 

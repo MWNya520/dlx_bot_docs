@@ -1,10 +1,10 @@
 ---
-sidebar_position: 1
+sidebar_position: 12
 ---
 
 # 漂流瓶
 
-全群聊互通的休闲小游戏
+扔漂流瓶到大海~
 
 ## 用户手册
 

@@ -1,10 +1,10 @@
 ---
-sidebar_position: 2
+sidebar_position: 11
 ---
 
 # 牛子PK
 
-群聊小游戏牛子PK的指令教程
+群聊小游戏: 牛子PK
 
 ### 指令表
 
