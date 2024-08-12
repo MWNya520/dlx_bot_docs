@@ -1,4 +1,3 @@
-import React from 'react';
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
@@ -7,18 +6,30 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: '简单易用',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: '指令简洁明了、一目了然，有众多社区资源',
+    Svg: require('@site/static/img/Stamp/03.svg').default,
+    description: (
+        <>
+        指令简洁明了、一目了然，有众多社区资源
+        </>
+    ),
   },
   {
     title: '沉心出勤',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: '大家只需要沉心出勤，剩下的都交给 迪拉熊 BOT 吧',
+    Svg: require('@site/static/img/Stamp/10.svg').default,
+    description: (
+        <>
+        大家只需要沉心出勤，剩下的都交给 迪拉熊 BOT 吧
+        </>
+    ),
   },
   {
     title: '强力支持',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: '使用了 Nonebot 及 TRSS-Yunzai 等众多项目进行搭建',
+    Svg: require('@site/static/img/Stamp/01.svg').default,
+    description: (
+        <>
+        使用了 Nonebot 及 TRSS-Yunzai 等众多项目进行搭建
+        </>
+    ),
   },
 ];
 
