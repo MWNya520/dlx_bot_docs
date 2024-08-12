@@ -2,8 +2,6 @@
 sidebar_position: 3
 ---
 
-# Project Sekai 表情包制作
-
 # PJSK表情包制作
 
 Project Sekai 表情包制作
