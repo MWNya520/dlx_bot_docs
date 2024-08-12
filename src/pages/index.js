@@ -33,7 +33,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title} ：你好`}
-      description="迪拉熊 BOT 是使用 nonebot 及 众多nonebot插件 搭建的一款机器人，简单、易用且功能丰富的 QQ机器人。">
+      description="迪拉熊 BOT 是使用 Nonebot & TRSS-Yunzai & 众多插件 搭建的一款简单、易用且功能丰富的 QQ机器人。">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
