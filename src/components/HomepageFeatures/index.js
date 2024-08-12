@@ -1,7 +1,9 @@
+import React from 'react';
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
+// 功能列表
 const FeatureList = [
   {
     title: '简单易用',
@@ -32,7 +34,8 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+// 功能组件
+function Feature({ Svg, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
@@ -46,6 +49,7 @@ function Feature({Svg, title, description}) {
   );
 }
 
+// 主页功能展示组件
 export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
@@ -59,3 +63,4 @@ export default function HomepageFeatures() {
     </section>
   );
 }
+
