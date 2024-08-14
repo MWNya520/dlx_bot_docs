@@ -1,8 +1,7 @@
-# NoneBot-Plugin-Kawaii-Status
-## ✨ NoneBot2 服务器状态查看插件 ✨
-### 🎉 使用
+# 可爱状态
+✨ NoneBot2 服务器状态查看插件 ✨
 
-> [!note]
-> 请注意你的 `COMMAND_START` 以及上述配置项。
+注意注意~该命令展示的是 Nonebot Main 的状态喔~
+### 🎉 使用
 
 指令名：`status` `状态` `运行状态`
